@@ -1,4 +1,4 @@
-# Wheather Web App
+# Quiz App
 
  Make a Wheather Web App using techstack is HTML and CSS and JavaScript 
  
@@ -25,7 +25,7 @@ https://github.com/NILESHSINGH234/Quiz-Game/assets/131458541/fa245c7b-1865-4859-
 
 
 ## Link
-[Wheather APP](https://wheather-app-ruddy.vercel.app/)
+[Quiz App](https://64a3167ff8f8e64707ff450a--magenta-liger-6c028d.netlify.app/)
 
 
 
