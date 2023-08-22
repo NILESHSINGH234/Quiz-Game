@@ -1,6 +1,6 @@
 # Quiz App
 
- Make a Wheather Web App using techstack is HTML and CSS and JavaScript 
+ Make a Quiz Web App using techstack is HTML and CSS and JavaScript 
  
 
 ![my badge](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)
